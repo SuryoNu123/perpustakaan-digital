@@ -1,0 +1,22 @@
+{
+    "Fiksi": [
+        "Novel",
+        "Cerpen"
+    ],
+    "Non-Fiksi": [
+        "Biografi",
+        "Sejarah"
+    ],
+    "Sains": [
+        "Fisika",
+        "Kimia"
+    ],
+    "Teknologi": [
+        "Pemrograman",
+        "AI"
+    ],
+    "Punk": [
+        "Cyberpunk",
+        "Steampunk"
+    ]
+}

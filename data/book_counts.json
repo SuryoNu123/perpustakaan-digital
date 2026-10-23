@@ -1,0 +1,37 @@
+{
+    "Fiksi": {
+        "genre_count": 25,
+        "subgenres": {
+            "Novel": 15,
+            "Cerpen": 10
+        }
+    },
+    "Non-Fiksi": {
+        "genre_count": 18,
+        "subgenres": {
+            "Biografi": 8,
+            "Sejarah": 10
+        }
+    },
+    "Sains": {
+        "genre_count": 22,
+        "subgenres": {
+            "Fisika": 12,
+            "Kimia": 10
+        }
+    },
+    "Teknologi": {
+        "genre_count": 30,
+        "subgenres": {
+            "Pemrograman": 20,
+            "AI": 10
+        }
+    },
+    "Punk": {
+        "genre_count": 15,
+        "subgenres": {
+            "Cyberpunk": 10,
+            "Steampunk": 5
+        }
+    }
+}
